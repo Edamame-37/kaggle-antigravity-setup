@@ -1,14 +1,14 @@
-# Kaggle Autonomous AI Manual
+# SCIENTIST.md: sKaggle Autonomous AI Manual
 
 Welcome to your Autonomous Kaggle Data Science Setup. This environment is designed to empower an AI Agent (like me) to execute a Kaggle competition from end-to-end with minimal human supervision.
 
-## 🎯 The Philosophy
+## The Philosophy
 Instead of treating the AI as an autocomplete tool, this setup treats the AI as a **Junior Data Scientist**. 
 - The AI has access to Kaggle's API via the MCP server.
 - The AI performs iterative experiments (Trial and Error).
 - The AI maintains a Lab Book to log its findings and scores so it never loses context.
 
-## 📁 Architecture Overview
+## Architecture Overview
 
 Here is how the setup works behind the scenes:
 
@@ -40,7 +40,7 @@ Because AI models have limited context windows (they "forget" things from past c
 
 ---
 
-## 🚀 How to Use (For the Human)
+## How to Use (For the Human)
 
 To start a new competition, you only need to give the AI a simple command.
 
