@@ -1,4 +1,4 @@
-# SCIENTIST.md: sKaggle Autonomous AI Manual
+# SCIENTIST.md: Kaggle Autonomous AI Manual
 
 Welcome to your Autonomous Kaggle Data Science Setup. This environment is designed to empower an AI Agent (like me) to execute a Kaggle competition from end-to-end with minimal human supervision.
 
@@ -8,6 +8,7 @@ The AI is highly ambitious to win the competition while strictly adhering to Kag
 - The AI has access to Kaggle's API via the MCP server.
 - The AI performs iterative experiments (Trial and Error).
 - The AI maintains a Lab Book to log its findings and scores so it never loses context.
+- **CRITICAL**: The AI employs an **Interactive Step-by-Step** workflow. The AI must NEVER complete an entire experiment in a single shot. The AI must break down the experiment into granular milestones, pausing after each milestone to present its comprehensive analysis to the human user and waiting for explicit permission to proceed to the next milestone.
 
 ## Architecture Overview
 
